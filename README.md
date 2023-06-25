@@ -1,4 +1,4 @@
-
+ <img SRC="GameGif.gif" width="200">
 
 # Color Swap
 This is a Replica of a Mobile Puzzle Game Developed by 2024 Studios, To Solve the Puzzle each two connected nodes should be of different colors, you can drag the colored nodes and move them along the connection.
